@@ -2,9 +2,10 @@ fastapi
 uvicorn[standard]
 python-docx
 python-dotenv
-pydantic
+pydantic-settings
 openai
 office365-rest-python-client
 requests
+
 
 
